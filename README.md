@@ -1,5 +1,4 @@
 # react-redux-boilerplate
-react-redux-boilerplate - Alejandro Perez (alejandromcsd)
 A boilerplate with some of the features, patterns and packages I've used recently
 
 Install:
